@@ -11,7 +11,7 @@ Sou estudante de Ciência da Computação na UNIP e estou sempre em busca de exp
 
 -   ### Estágio na CompassUOL
     `Duração:` 6 meses  
-    [**Ver mais ➡️**]()
+    [**Ver mais ➡️**](https://github.com/Nicolax-dev/compassUol)
 
 ---
 
