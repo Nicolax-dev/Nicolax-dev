@@ -11,8 +11,6 @@ Sou estudante de Ciência da Computação na UNIP e estou sempre em busca de exp
 
 -   ### Estágio na CompassUOL
     `Duração:` 6 meses  
-    `Início:` 04/2025 (abril)  
-    `Término:` 10/2025 (outubro)  
     [**Ver mais ➡️**]()
 
 ---
