@@ -6,9 +6,7 @@ Sou estudante de Ciência da Computação na UNIP e estou sempre em busca de exp
 ## Experiências
 
 -   ### 🟢 Estágio na Prefeitura de Reginópolis - SP `Em andamento`
-    `Início:` 17/03/2026  
-    `Previsão de término:` 03/03/2027
-
+    `Duração:` 1 ano
 -   ### Estágio na CompassUOL
     `Duração:` 6 meses  
     [**Ver mais ➡️**](https://github.com/Nicolax-dev/compassUol)
